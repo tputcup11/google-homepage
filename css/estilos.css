@@ -1,0 +1,39 @@
+
+body {
+    font-size: small;
+    background-color: #ffffff;
+    color: #222222;
+}
+
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+#div-logo{
+    margin-top: 47px;
+}
+#logo{
+    padding-top: 109px;
+}
+
+#search-form{
+    height: 118px;  
+}
+
+#search-bar{
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding-top: 34px;
+    color: rgba(0, 0, 0, 87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    font-size: 16px;
+    height: 34px;
+    
+
+}
